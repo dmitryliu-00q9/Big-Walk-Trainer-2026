@@ -92,7 +92,7 @@ All hotkeys are **100% customizable** via the settings panel.
 
 > ⚡ **Quick & Easy — takes less than 1 minute!**
 
-1. **Download** the archive from the button above or from [Releases](../../releases)
+1. **Download** the archive from the button above or from [Releases](../../release)
 2. **Extract** `release.zip` to any folder (no admin rights needed)
    - Use WinRAR, 7-Zip, or any archiver
    - Right-click → "Extract here"
